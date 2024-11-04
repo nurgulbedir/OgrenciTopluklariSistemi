@@ -28,7 +28,7 @@ Projede yer alacak varlıklar ve bunların nitelikleri şunlardır:
 2. Varlıklar Arasındaki İlişkiler ve Sayısal Kısıtlamalar
     Belirlenen varlıklar arasında çeşitli ilişkiler ve bu ilişkilerde bazı sayısal kısıtlamalar mevcuttur:
     
-    Bölge-Şehir İlişkisi: Bir bölge birden fazla şehre sahip olabilir, ancak her şehir yalnızca bir bölgeye aittir. (1
+    Bölge-Şehir İlişkisi: Bir bölge birden fazla şehre sahip olabilir, ancak her şehir yalnızca bir bölgeye aittir. (1-n
     )
     Şehir-Üniversite İlişkisi: Her şehirde birden fazla üniversite olabilir, fakat her üniversite yalnızca bir şehirde bulunur. (1
     )
