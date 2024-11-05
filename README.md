@@ -56,4 +56,4 @@ Projede yer alacak varlıklar ve bunların nitelikleri şunlardır:
     Yönetici: Sistemdeki tüm toplulukları ve etkinlikleri düzenleyebilir, gerekirse etkinlikleri yayından kaldırabilir.
 
 
-Mehmet Kağan Bayrak | Nurgül Bedir | Ayberk Erdem
+Mehmet Kağan Bayrak https://github.com/Kaganbayrak | Nurgül Bedir | Ayberk Erdem
