@@ -1,5 +1,5 @@
 
-CREATE TABLE Organizatörler (
+CREATE TABLE OrganizatÃ¶rler (
     Or_id INT PRIMARY KEY,           
     O_id INT,                        
     E_id INT,                        
